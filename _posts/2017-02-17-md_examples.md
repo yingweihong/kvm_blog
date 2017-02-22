@@ -6,3 +6,5 @@
 # cd hhb
 # sh a.sh
 ```
+# add file
+[filename](/kvm_blog/files/filename)
